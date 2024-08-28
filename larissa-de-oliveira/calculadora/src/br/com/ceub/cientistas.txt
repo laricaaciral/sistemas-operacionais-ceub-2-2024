@@ -1,0 +1,30 @@
+1. **Albert Einstein**
+2. **Isaac Newton**
+3. **Marie Curie**
+4. **Charles Darwin**
+5. **Galileo Galilei**
+6. **Nikola Tesla**
+7. **Leonardo da Vinci**
+8. **Stephen Hawking**
+9. **Niels Bohr**
+10. **Richard Feynman**
+11. **Carl Sagan**
+12. **Rosalind Franklin**
+13. **James Clerk Maxwell**
+14. **Michael Faraday**
+15. **Ada Lovelace**
+16. **Gregor Mendel**
+17. **Louis Pasteur**
+18. **Alfred Wegener**
+19. **Erwin Schrödinger**
+20. **Werner Heisenberg**
+21. **Dmitri Mendeleev**
+22. **Enrico Fermi**
+23. **Johannes Kepler**
+24. **Jane Goodall**
+25. **Carolus Linnaeus**
+26. **Max Planck**
+27. **Francis Crick**
+28. **Barbara McClintock**
+29. **Hedy Lamarr**
+30. **Paul Dirac**

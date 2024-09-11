@@ -1,3 +1,4 @@
+package app_banheiro;
 public class Numero2 implements Runnable {
     
     private Banheiro banheiro;

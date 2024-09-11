@@ -1,3 +1,4 @@
+package app_banheiro;
 public class App {
     public static void main(String[] args) throws Exception {
         Banheiro banheiro = new Banheiro();

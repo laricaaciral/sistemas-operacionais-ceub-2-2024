@@ -1,0 +1,21 @@
+Um deadlock é uma situação em que duas ou mais threads 
+estão bloqueadas permanentemente, esperando umas pelas 
+outras para liberar recursos que elas precisam para continuar a execução. 
+Isso geralmente ocorre quando duas ou mais threads adquirem 
+recursos em uma ordem diferente e, em seguida, tentam adquirir 
+os recursos já mantidos pela outra thread.
+
+Problemas que podem acontecer em uma aplicação quando ocorre um Deadlock:
+
+- Paralisação da aplicação: As threads envolvidas no deadlock ficam 
+bloqueadas indefinidamente, o que pode paralisar partes ou toda a aplicação.
+
+- Desempenho degradado: A aplicação pode experimentar uma degradação 
+significativa no desempenho, pois os recursos ficam bloqueados e não 
+podem ser utilizados por outras partes do programa.
+
+- Consumo de recursos: As threads bloqueadas continuam a consumir recursos 
+do sistema, como memória e CPU, sem realizar nenhum progresso útil.
+
+- Dificuldade de depuração: Deadlocks podem ser difíceis de detectar e 
+depurar, especialmente em sistemas complexos com muitas threads e recursos.
